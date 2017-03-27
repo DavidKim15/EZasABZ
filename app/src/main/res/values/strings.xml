@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SleepHelp</string>
+    <string name="greetings">"I hear you have trouble sleeping!\nLet's get started. Choose an activity below."</string>
+
+    <string-array name="animations_array">
+        <item>Breathing (Shapes)</item>
+        <item>Breathing (Circle)</item>
+        <item>Figure-Eight</item>
+    </string-array>
+</resources>
